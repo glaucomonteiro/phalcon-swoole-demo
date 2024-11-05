@@ -1,0 +1,22 @@
+[
+	{
+		"id": 0,
+		"title": "Guest",
+		"feature_flags": {}
+	},
+	{
+		"id": 1,
+		"title": "Admin",
+		"feature_flags": {}
+	},
+	{
+		"id": 2,
+		"title": "Free user",
+		"feature_flags": {}
+	},
+	{
+		"id": 3,
+		"title": "Paid user",
+		"feature_flags": {}
+	}
+]

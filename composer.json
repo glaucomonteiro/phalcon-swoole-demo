@@ -1,0 +1,11 @@
+{
+    "require": {
+    },
+    "require-dev": {
+        "behat/behat": "^3.11",
+        "phalcon/ide-stubs": "^5.0",
+        "phpunit/phpunit": "^9.5",
+        "phalcon/migrations": "^3.0",
+        "openswoole/ide-helper": "^22.0"
+    }
+}
